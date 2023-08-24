@@ -10,7 +10,9 @@ function App() {
   return (
     <>
   <Nav/>
-   
+   <div>
+    <h1>hello</h1>
+   </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
