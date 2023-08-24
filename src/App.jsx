@@ -9,7 +9,7 @@ function App() {
     <>
   <Nav/>
    <div>
-    <h1 className='flex justify-center '>hello</h1>
+    
    </div>
    
     </>
